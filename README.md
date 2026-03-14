@@ -47,7 +47,7 @@ Bad: "Lead time has a positive correlation with cancellation"
 -->
 
 ## Visualizing the Story
-![Cancellation Rate by Lead Time Group](lead_time_cancellation.png)
+![Cancellation Rate by Lead Time Group](download.png)
 <!-- Embed your most compelling chart. Pick the ONE visual that best captures your main finding. -->
 
 ![Description of your chart](your_chart_filename.png)
