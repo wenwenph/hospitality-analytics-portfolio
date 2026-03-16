@@ -1,6 +1,6 @@
 # hospitality-analytics-portfolio
 Predictive analytics to reduce hotel booking cancellations.
-# Run this cell to display the README template — then copy the printed output
+
 
 
 # Predicting Hotel Cancellations: A Data-Driven Approach to Revenue Protection
@@ -26,14 +26,6 @@ Try: "A Portuguese hotel chain loses an estimated millions annually to last-minu
 We analyzed over 119,000 individual hotel bookings from both city and resort hotels, spanning from 2015 to 2017. The dataset captures a wide array of information, including how far in advance guests booked, their travel details, booking channels, and deposit types, providing rich context to understand cancellation patterns. We identified some missing data for 'company' and 'agent' information, which were handled during data preparation.
 
 ## Key Discoveries
-<!--
-Tip: Translate technical details into human terms.
-Instead of "The dataset has 32 features and 119,390 rows..."
-Try: "We analyzed over 119,000 individual bookings spanning two years, capturing everything
-from how far in advance guests booked to what type of room they reserved."
--->
-
-## Key Discoveries
 
 - **Problematic 'Non Refund' Deposit Policy:** Bookings made with a 'Non Refund' deposit type exhibit a staggering 99.4% cancellation rate, indicating a critical disconnect between the policy and booking outcome.
 - **High-Risk 'Groups' Market Segment:** Bookings originating from the 'Groups' market segment show an exceptionally high cancellation rate of over 61%, making them a primary driver of lost revenue compared to other segments.
@@ -52,7 +44,7 @@ Bad: "Lead time has a positive correlation with cancellation"
 
 ![Description of your chart](your_chart_filename.png)
 
-*This chart illustrates how bookings made further in advance (longer lead times) are significantly more prone to cancellation, with cancellation rates increasing steadily with the lead time. This insight is crucial for understanding booking commitment.* (You will need to save the 'Cancellation Rate by Lead Time Group' chart as `lead_time_cancellation.png` and upload it to your GitHub repository for it to display here.)*
+*This chart illustrates how bookings made further in advance (longer lead times) are significantly more prone to cancellation, with cancellation rates increasing steadily with the lead time. This insight is crucial for understanding booking commitment.*
 
 ## Prediction Model
 
