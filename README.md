@@ -47,7 +47,6 @@ Bad: "Lead time has a positive correlation with cancellation"
 
 Our enhanced Decision Tree model effectively predicts hotel booking cancellations with an accuracy of approximately 84%. This model is a significant improvement over our initial attempt, substantially reducing the number of 'false alarms' (bookings predicted to cancel but actually don't) while still accurately identifying a large portion of actual cancellations. This provides the hotel with a reliable tool to proactively manage at-risk bookings.
 
-## Recommendations
 
 <!--
 Tip: Translate model metrics into business impact.
