@@ -42,7 +42,7 @@ Bad: "Lead time has a positive correlation with cancellation"
 ![Cancellation Rate by Lead Time Group](download.png)
 <!-- Embed your most compelling chart. Pick the ONE visual that best captures your main finding. -->
 
-![Description of your chart](your_chart_filename.png)
+(your_chart_filename.png)
 
 *This chart illustrates how bookings made further in advance (longer lead times) are significantly more prone to cancellation, with cancellation rates increasing steadily with the lead time. This insight is crucial for understanding booking commitment.*
 
