@@ -30,7 +30,6 @@ We analyzed over 119,000 individual hotel bookings from both city and resort hot
 - **Problematic 'Non Refund' Deposit Policy:** Bookings made with a 'Non Refund' deposit type exhibit a staggering 99.4% cancellation rate, indicating a critical disconnect between the policy and booking outcome.
 - **High-Risk 'Groups' Market Segment:** Bookings originating from the 'Groups' market segment show an exceptionally high cancellation rate of over 61%, making them a primary driver of lost revenue compared to other segments.
 - **Lead Time Correlates with Cancellation Risk:** The longer the lead time before arrival, the higher the cancellation rate. Bookings made over a year in advance cancel at nearly 68%, versus 18% for bookings within 30 days of arrival.
-- **[Finding 4 headline (optional)]:** [1-2 sentences]
 
 <!--
 Tip: Write findings as "headlines" a newspaper editor would approve.
@@ -41,8 +40,6 @@ Bad: "Lead time has a positive correlation with cancellation"
 ## Visualizing the Story
 ![Cancellation Rate by Lead Time Group](download.png)
 <!-- Embed your most compelling chart. Pick the ONE visual that best captures your main finding. -->
-
-(your_chart_filename.png)
 
 *This chart illustrates how bookings made further in advance (longer lead times) are significantly more prone to cancellation, with cancellation rates increasing steadily with the lead time. This insight is crucial for understanding booking commitment.*
 
