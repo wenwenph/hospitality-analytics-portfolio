@@ -40,7 +40,7 @@ Bad: "Lead time has a positive correlation with cancellation"
 
 ## Prediction Model
 
-Our enhanced Decision Tree model effectively predicts hotel booking cancellations with an accuracy of approximately 84%. This model is a significant improvement over our initial attempt, substantially reducing the number of 'false alarms' (bookings predicted to cancel but actually don't) while still accurately identifying a large portion of actual cancellations. This provides the hotel with a reliable tool to proactively manage at-risk bookings.
+Our enhanced Decision Tree model effectively predicts hotel booking cancellations with an accuracy of approximately 84%. This model is substantially reducing the number of 'false alarms' (bookings predicted to cancel but actually don't) while still accurately identifying a large portion of actual cancellations. This provides the hotel with a reliable tool to proactively manage at-risk bookings.
 
 
 <!--
@@ -53,7 +53,7 @@ enough lead time to proactively reach out and offer flexible rebooking options."
 ## Recommendations
 
 1.  **Re-evaluate and Clarify the 'Non Refund' Deposit Policy:**
-We found that the “Non-Refund” policy is associated with a 99.4% cancellation rate, which is exceptionally high and merits further analysis. Investigate if these cancellations are concentrated among specific travel agencies to identify potential predatory booking patterns, or if they are driven by factors related to the policy itself, like pricing or customer expectations. Understanding the root cause will help guide the right actions to address and reduce this issue.
+Investigate if these cancellations are concentrated among specific travel agencies to identify potential predatory booking patterns, or if they are driven by factors related to the policy itself, like pricing or customer expectations. Understanding the root cause will help guide the right actions to address and reduce this issue.
 2.  **Implement Targeted Engagement for 'Groups' Market Segment:**
 Create a more proactive communication plan for 'Groups' bookings, which currently have a high cancellation rate of over 61%. This can include checking in earlier and sending more personalized follow-ups to keep customers engaged. Even reducing cancellations by 10–15% could help keep occupancy more stable and increase actual group revenue.
 3.  **Proactive Outreach and Flexibility for Long Lead-Time Bookings:** Set up automatic check-ins and offer flexible options (like free date changes) for bookings made more than 180 days in advance, which have cancellation rates as high as 68%. This can help reduce cancellations by about 10–20%, either keeping more bookings confirmed or giving enough time to resell the rooms.
