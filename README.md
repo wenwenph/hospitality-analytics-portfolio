@@ -58,9 +58,11 @@ enough lead time to proactively reach out and offer flexible rebooking options."
 
 ## Recommendations
 
-1.  **Re-evaluate and Clarify the 'Non Refund' Deposit Policy:** Investigate the process and communication around 'Non Refund' bookings given their near 100% cancellation rate. Fixing this could recover thousands of potentially lost bookings annually by guiding guests towards more viable commitment options.
-2.  **Implement Targeted Engagement for 'Groups' Market Segment:** Develop a proactive communication strategy (e.g., earlier check-ins, personalized follow-ups) for 'Groups' bookings, which have over a 61% cancellation rate. Reducing 'Groups' cancellations by 10-15% could significantly stabilize occupancy and increase confirmed group revenue.
-3.  **Proactive Outreach and Flexibility for Long Lead-Time Bookings:** Introduce automated touchpoints and flexible options (like date changes without penalty) for bookings made more than 180 days in advance, which cancel at up to 68%. This could reduce cancellations for these bookings by an estimated 10-20%, converting at-risk bookings into confirmed stays or allowing timely re-selling of inventory.
+1.  **Re-evaluate and Clarify the 'Non Refund' Deposit Policy:**
+We found that the “Non-Refund” policy is associated with a 99.4% cancellation rate, which is exceptionally high and merits further analysis. It’s important to investigate the reasons behind this trend, such as whether cancellations are concentrated among certain travel agencies (possibly pointing to questionable practices) or if they are driven by factors related to the policy itself, like pricing or customer expectations. Understanding the root cause will help guide the right actions to address and reduce this issue.
+2.  **Implement Targeted Engagement for 'Groups' Market Segment:**
+Create a more proactive communication plan for 'Groups' bookings, which currently have a high cancellation rate of over 61%. This can include checking in earlier and sending more personalized follow-ups to keep customers engaged. Even reducing cancellations by 10–15% could help keep occupancy more stable and increase actual group revenue.significantly stabilize occupancy and increase confirmed group revenue.
+3.  **Proactive Outreach and Flexibility for Long Lead-Time Bookings:** Set up automatic check-ins and offer flexible options (like free date changes) for bookings made more than 180 days in advance, which have cancellation rates as high as 68%. This can help reduce cancellations by about 10–20%, either keeping more bookings confirmed or giving enough time to resell the rooms.
 
 ## Tools & Techniques
 
